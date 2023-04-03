@@ -6,7 +6,7 @@
 
 ### <span style="color:#8585e0"> ***Step 1: Recreated simple database from bootcamp project on Render*** </span>
 
-<img src="DB_Create_Tables/Meteorite_DB_ERD_logical.png">
+<img src="Resources/DB_Create_Tables/Meteorite_DB_ERD_logical.png">
 
 ### <span style="color:#8585e0"> ***Step 2: Wrote SQL queries to incorporate the following functions:*** </span>
 * group by with aggregate functions
@@ -21,10 +21,10 @@
 * limit to 20 results
         
 #### <span style="color:#8585e0">Summary Query</span>
-<img src="DB_queries/SummaryQuery.png">
+<img src="Resources/DB_queries/SummaryQuery.png">
 
 #### <span style="color:#8585e0">General Query</span>
-<img src="DB_queries/GeneralQuery.png">
+<img src="Resources/DB_queries/GeneralQuery.png">
 
 Query code available in "meteorite_SQL_chris.ipynb"
 
