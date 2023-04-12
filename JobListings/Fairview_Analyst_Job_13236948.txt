@@ -1,0 +1,162 @@
+MinnesotaWorks.Net
+		
+		
+Job ID:	13236948
+		
+		
+Job Location:	Fairview Health Services
+Minneapolis, MN 55405
+		
+		
+How to Apply:	Website: https://nlx.jobsyn.org/9c99c17759bb4ccba6702863bdb76b09152
+
+		
+		
+Job Title:	Sr Health Info and Data Analyst (remote)
+		
+		
+Work Type:	Work Days:	
+	Work Vary:	No , Shift: First(Day), Hours Per Week: 40, Work Type: Regular
+	
+		
+Salary Offered:	Unspecified
+		
+		
+Benefits:	Unspecified
+		
+		
+Physical Required:	Unspecified
+		
+		
+Drug Testing Required:	Unspecified
+		
+		
+Education Required:	Unspecified
+		
+		
+Special License/	
+Certification Required:	Unspecified
+		
+		
+Experience Required:	Unspecified
+		
+		
+Required Skills:	See Job Description section for any required skills.
+		
+		
+Preferred Skills:	Unspecified
+		
+		
+Driver's License:	Unspecified
+		
+		
+Endorsement(s):	Unspecified
+		
+		
+Job Description:	**Overview**
+
+Are you ready for the next step in your data analyst career? M Health Fairview is hiring a Population Health Senior Health Information Data Analyst!
+
+This Sr. Analyst excels in data analysis and reporting related to Population Health, Value Based Care contracts, and Care Coordination. This role includes using and supporting Epic's Healthy Planet tools to provide data and technology to operational staff and leaders to look after patients and provide understanding of our success in Value Based Contracts.They work in a team to craft, develop, and implement data transformation into information that is useful. The Sr. Data Analyst conducts health information analysis as well as the reviews, assesses, validates, and develops with data management processes to support Fairview's health initiatives. This role is key to supporting system and network level clinical and financial performance. The Analyst will ensure innovative quality and population-focused analysis and reporting on quality, risk, utilization, cost and clinical measures through the use of, but not limited to, regulatory specifications, benchmarking, trending, opportunity analysis and predictive modeling. The senior role works independently to craft, document, and develop solutions to deliver data and analytics to clinical and operational senior and executive leaders. Senior team members may also work independently with strategic partners, assuring that any work and data sharing conform with Fairview's standards and align with our legal and regulatory obligations. This team-member will use standard processes in development, testing, and deployment of population health technology, data, and analytics solutions. They will be the primary resource in conducting peer review of team members work product prior to user acceptance testing.
+
+This work from home opportunity is full time (80 hours/2 weeks) andbenefit (https://www.fairview.org/benefits) eligible. We offer medical, dental, and vision coverage along with PTO and 403B.
+
+**Responsibilities**
+
++ Participates in discussions with teams and leadership to craft analytic reports for quality reporting and population health management using electronic medical record data, claims and other data sources.
+
++ Accountable and proficient in: defining requirements, data validation, and supervision of report development to support enterprise analytics, statistics, predictive modeling and external data submissions.
+
++ Work directly with the Health Information Report Writers, Data Modelers and/or ETL Developers to build data driven reporting that is relevant and useful for the Fairview enterprise, and affiliated networks
+
++ Proficient in analyzing, visualizing, and modeling data to provide insight and practical recommendations.
+
++ Partner with data scientists, quality teams and researchers to develop and implement algorithms for performing predictive and prescriptive analytics.
+
++ Proficient in applying appropriate tests to analytical results to deliver high quality and accurate results.
+
++ Assists in the review process of data sent to external vendors by Fairview. Includes working directly with the external vendors to understand the business rules application to the data extracts.
+
++ Researches and reviews benchmarking data for comparison, validation and scope. Identifies areas for greatest opportunity for intervention.
+
++ Builds written narrative summaries that outline project purpose, methodology, summary of findings, trends of interest, and opportunities for consideration.
+
++ Provides technical, analytical and business mentorship to other team members and other groups with Fairview.
+
++ Proficient in: Displaying original thinking and creativity; Meets challenges with resourcefulness; Generates suggestions for improving work; Develops innovative ways and ideas; Presents ideas and information in a manner that gets others attention.
+
+**Qualifications**
+
+Education
+
++ Bachelor's Degree in a Clinical field, Computer Science, Mathematics, Statistics, or other quantitative subject area required. **Masters preferred.**
+
+Required Experience: 5+ years
+
++ Analytical skills with high attention to detail and quality
+
++ Technical and interpersonal communication skills
+
++ Handle and organize multiple projects and responsibilities
+
++ Strong quantitative and analytic skills
+
++ Creativity and ability to collaborate
+
++ Write and present data visualization and presentations
+
+Preferred Experience: 5+ years
+
++ Healthcare data analysis and/or report writing
+
++ SQL(PL/SQL or T-SQL) and Crystal report or PowerBI reporting experience
+
++ Healthy Planet application experience
+
++ Compass Rose
+
++ Claims Data Aggregation in Epic's Caboodle data warehouse
+
++ Experience with reporting on data out of an enterprise Epic Electronic Health Record (EHR)
+
+Certification:
+
++ Epic Certification in Cogito, Clarity Data Model, Caboodle Data Model, Healthy Planet and Compass Rose Analytics and Clinical Build, or EpicCare Ambulatory Application **REQUIRED** . Epic certification in Healthy Planet **Preferred** .
+
+**Need help finding the right job?**
+
+We can recommend jobs specifically for you!
+
+_Fairview Health Services (fairview.org) is an award-winning, nonprofit health system providing exceptional care across the full spectrum of health care services. Fairview is one of the most comprehensive and geographically accessible systems in the state, with 12 hospitals-including an academic medical center and long-term care hospital-serving the greater Twin Cities metro area and north-central Minnesota._
+
+_Its broad continuum also includes 56 primary care clinics, specialty clinics, senior living communities, retail and specialty pharmacies, pharmacy benefit management services, rehabilitation centers, counseling and home health care services, medical transportation, an integrated provider network and health insurer PreferredOne. In partnership with the University of Minnesota, Fairview's 32,000 employees and 2,400 affiliated providers embrace innovation to drive a healthier future through healing, discovery and education._
+
+**_Vaccination Update_**
+
+_As part of our ongoing efforts to protect the wellbeing of our teams and to provide a safe and healthy environment for the patients and communities we serve, all Fairview employees will be required to receive both an annual flu vaccination and the COVID-19 vaccination series.  Current employees must have completed both vaccination schedules on or before October 31, 2021.Beginning August 9, 2021, any new hires who are not fully vaccinated against COVID-19 are required to receive their first dose prior to their start date and their second dose (if receiving Moderna or Pfizer vaccines) within 4 weeks of their start date. Annual flu vaccinations are also required before the employment start date for employees who begin employment during the flu season.Accommodations requests will be reviewed on an individual basis._
+
+_EEO/AA Employer/Vet/Disabled All qualified applicants will receive consideration without regard to any lawfully protected status._
+
+**Job Locations**  _US-MN-Minneapolis_
+
+**Posted Date**  _2 weeks ago_  _(2/17/2023 2:22 PM)_
+
+**_Requisition ID_**  _2023-107413_
+
+**_Profession_**  _Business Operations_
+
+**_Speciality_**  _Information Technology_
+
+**_Department_**  _Analytics_
+
+**_Shift_**  _day_
+
+**_Hours per 2 weeks_**  _80_
+
+**_Location_**  _Fairview offices at 323 Stinson_  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="9c99c17759bb4ccba6702863bdb76b09152"></script>
+		
+		
+
+		
+		
+

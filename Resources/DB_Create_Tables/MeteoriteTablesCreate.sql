@@ -39,3 +39,17 @@ CREATE TABLE meteorite_type (
   	meteorite_type VARCHAR(50),
   	PRIMARY KEY (recclass)
 );
+
+CREATE TABLE meteorite_landings_raw (
+  	name VARCHAR(50),
+	id integer,
+	nametype VARCHAR(20),
+ 	recclass VARCHAR(100),
+  	mass_grams float,
+	fall VARCHAR(10),
+  	year integer,
+	reclat float,
+	reclong float,
+	geolocation varchar(50),
+  	PRIMARY KEY (id)
+);
